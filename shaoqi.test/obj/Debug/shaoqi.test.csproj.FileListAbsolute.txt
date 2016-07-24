@@ -1,0 +1,12 @@
+E:\项目\Web\shaoqi.test\shaoqi.test\bin\Debug\shaoqi.test.exe.config
+E:\项目\Web\shaoqi.test\shaoqi.test\bin\Debug\shaoqi.test.exe
+E:\项目\Web\shaoqi.test\shaoqi.test\bin\Debug\shaoqi.test.pdb
+E:\项目\Web\shaoqi.test\shaoqi.test\obj\Debug\shaoqi.test.csprojResolveAssemblyReference.cache
+E:\项目\Web\shaoqi.test\shaoqi.test\obj\Debug\shaoqi.test.Form1.resources
+E:\项目\Web\shaoqi.test\shaoqi.test\obj\Debug\shaoqi.test.Properties.Resources.resources
+E:\项目\Web\shaoqi.test\shaoqi.test\obj\Debug\shaoqi.test.csproj.GenerateResource.Cache
+E:\项目\Web\shaoqi.test\shaoqi.test\obj\Debug\shaoqi.test.exe
+E:\项目\Web\shaoqi.test\shaoqi.test\obj\Debug\shaoqi.test.pdb
+E:\project\Web\shaoqi.test\shaoqi.test\bin\Debug\shaoqi.test.exe.config
+E:\project\Web\shaoqi.test\shaoqi.test\obj\Debug\shaoqi.test.exe
+E:\project\Web\shaoqi.test\shaoqi.test\obj\Debug\shaoqi.test.pdb
