@@ -1,0 +1,6 @@
+E:\project\Web\shaoqi.test\WebApplication1\bin\WebApplication1.dll.config
+E:\project\Web\shaoqi.test\WebApplication1\bin\WebApplication1.dll
+E:\project\Web\shaoqi.test\WebApplication1\bin\WebApplication1.pdb
+E:\project\Web\shaoqi.test\WebApplication1\obj\Debug\shaoqi.mini.MVC.csprojResolveAssemblyReference.cache
+E:\project\Web\shaoqi.test\WebApplication1\obj\Debug\WebApplication1.dll
+E:\project\Web\shaoqi.test\WebApplication1\obj\Debug\WebApplication1.pdb
