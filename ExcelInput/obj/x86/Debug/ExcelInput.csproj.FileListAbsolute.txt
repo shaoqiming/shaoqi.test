@@ -1,0 +1,5 @@
+E:\project\Web\shaoqi.test\ExcelInput\bin\x86\Debug\ExcelInput.exe.config
+E:\project\Web\shaoqi.test\ExcelInput\bin\x86\Debug\ExcelInput.exe
+E:\project\Web\shaoqi.test\ExcelInput\bin\x86\Debug\ExcelInput.pdb
+E:\project\Web\shaoqi.test\ExcelInput\obj\x86\Debug\ExcelInput.exe
+E:\project\Web\shaoqi.test\ExcelInput\obj\x86\Debug\ExcelInput.pdb

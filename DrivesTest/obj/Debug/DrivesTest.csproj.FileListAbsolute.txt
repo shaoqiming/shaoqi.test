@@ -1,0 +1,6 @@
+E:\project\Web\shaoqi.test\DrivesTest\bin\Debug\DrivesTest.exe.config
+E:\project\Web\shaoqi.test\DrivesTest\bin\Debug\DrivesTest.exe
+E:\project\Web\shaoqi.test\DrivesTest\bin\Debug\DrivesTest.pdb
+E:\project\Web\shaoqi.test\DrivesTest\obj\Debug\DrivesTest.csprojResolveAssemblyReference.cache
+E:\project\Web\shaoqi.test\DrivesTest\obj\Debug\DrivesTest.exe
+E:\project\Web\shaoqi.test\DrivesTest\obj\Debug\DrivesTest.pdb

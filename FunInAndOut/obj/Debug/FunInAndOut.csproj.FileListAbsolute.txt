@@ -1,0 +1,6 @@
+E:\project\Web\shaoqi.test\FunInAndOut\bin\Debug\FunInAndOut.exe.config
+E:\project\Web\shaoqi.test\FunInAndOut\bin\Debug\FunInAndOut.exe
+E:\project\Web\shaoqi.test\FunInAndOut\bin\Debug\FunInAndOut.pdb
+E:\project\Web\shaoqi.test\FunInAndOut\obj\Debug\FunInAndOut.csprojResolveAssemblyReference.cache
+E:\project\Web\shaoqi.test\FunInAndOut\obj\Debug\FunInAndOut.exe
+E:\project\Web\shaoqi.test\FunInAndOut\obj\Debug\FunInAndOut.pdb

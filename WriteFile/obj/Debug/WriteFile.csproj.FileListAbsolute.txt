@@ -1,0 +1,6 @@
+E:\project\Web\shaoqi.test\WriteFile\bin\Debug\WriteFile.exe.config
+E:\project\Web\shaoqi.test\WriteFile\bin\Debug\WriteFile.exe
+E:\project\Web\shaoqi.test\WriteFile\bin\Debug\WriteFile.pdb
+E:\project\Web\shaoqi.test\WriteFile\obj\Debug\WriteFile.csprojResolveAssemblyReference.cache
+E:\project\Web\shaoqi.test\WriteFile\obj\Debug\WriteFile.exe
+E:\project\Web\shaoqi.test\WriteFile\obj\Debug\WriteFile.pdb

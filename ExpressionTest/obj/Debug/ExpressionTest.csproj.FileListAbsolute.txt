@@ -1,0 +1,5 @@
+E:\project\Web\shaoqi.test\ExpressionTest\bin\Debug\ExpressionTest.exe.config
+E:\project\Web\shaoqi.test\ExpressionTest\bin\Debug\ExpressionTest.exe
+E:\project\Web\shaoqi.test\ExpressionTest\bin\Debug\ExpressionTest.pdb
+E:\project\Web\shaoqi.test\ExpressionTest\obj\Debug\ExpressionTest.exe
+E:\project\Web\shaoqi.test\ExpressionTest\obj\Debug\ExpressionTest.pdb

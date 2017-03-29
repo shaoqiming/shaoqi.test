@@ -1,0 +1,9 @@
+E:\project\Web\shaoqi.test\AsynchronousProgrammingModel\bin\Debug\AsynchronousProgrammingModel.exe.config
+E:\project\Web\shaoqi.test\AsynchronousProgrammingModel\bin\Debug\AsynchronousProgrammingModel.exe
+E:\project\Web\shaoqi.test\AsynchronousProgrammingModel\bin\Debug\AsynchronousProgrammingModel.pdb
+E:\project\Web\shaoqi.test\AsynchronousProgrammingModel\obj\Debug\AsynchronousProgrammingModel.csprojResolveAssemblyReference.cache
+E:\project\Web\shaoqi.test\AsynchronousProgrammingModel\obj\Debug\AsynchronousProgrammingModel.Form1.resources
+E:\project\Web\shaoqi.test\AsynchronousProgrammingModel\obj\Debug\AsynchronousProgrammingModel.Properties.Resources.resources
+E:\project\Web\shaoqi.test\AsynchronousProgrammingModel\obj\Debug\AsynchronousProgrammingModel.csproj.GenerateResource.Cache
+E:\project\Web\shaoqi.test\AsynchronousProgrammingModel\obj\Debug\AsynchronousProgrammingModel.exe
+E:\project\Web\shaoqi.test\AsynchronousProgrammingModel\obj\Debug\AsynchronousProgrammingModel.pdb

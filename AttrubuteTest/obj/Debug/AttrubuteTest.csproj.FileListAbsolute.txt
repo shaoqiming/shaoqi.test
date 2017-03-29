@@ -1,0 +1,6 @@
+E:\project\Web\shaoqi.test\AttrubuteTest\bin\Debug\AttrubuteTest.exe.config
+E:\project\Web\shaoqi.test\AttrubuteTest\bin\Debug\AttrubuteTest.exe
+E:\project\Web\shaoqi.test\AttrubuteTest\bin\Debug\AttrubuteTest.pdb
+E:\project\Web\shaoqi.test\AttrubuteTest\obj\Debug\AttrubuteTest.csprojResolveAssemblyReference.cache
+E:\project\Web\shaoqi.test\AttrubuteTest\obj\Debug\AttrubuteTest.exe
+E:\project\Web\shaoqi.test\AttrubuteTest\obj\Debug\AttrubuteTest.pdb

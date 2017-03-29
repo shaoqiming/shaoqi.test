@@ -1,0 +1,5 @@
+E:\project\Web\shaoqi.test\TypeTest\bin\Debug\TypeTest.exe.config
+E:\project\Web\shaoqi.test\TypeTest\bin\Debug\TypeTest.exe
+E:\project\Web\shaoqi.test\TypeTest\bin\Debug\TypeTest.pdb
+E:\project\Web\shaoqi.test\TypeTest\obj\Debug\TypeTest.exe
+E:\project\Web\shaoqi.test\TypeTest\obj\Debug\TypeTest.pdb

@@ -1,0 +1,6 @@
+E:\project\Web\shaoqi.test\XpathTest\bin\Debug\XpathTest.exe.config
+E:\project\Web\shaoqi.test\XpathTest\bin\Debug\XpathTest.exe
+E:\project\Web\shaoqi.test\XpathTest\bin\Debug\XpathTest.pdb
+E:\project\Web\shaoqi.test\XpathTest\obj\Debug\XpathTest.exe
+E:\project\Web\shaoqi.test\XpathTest\obj\Debug\XpathTest.pdb
+E:\project\Web\shaoqi.test\XpathTest\obj\Debug\XpathTest.csprojResolveAssemblyReference.cache

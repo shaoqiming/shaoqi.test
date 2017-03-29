@@ -1,0 +1,5 @@
+E:\project\Web\shaoqi.test\EnumerableTest\bin\Debug\EnumerableTest.exe.config
+E:\project\Web\shaoqi.test\EnumerableTest\bin\Debug\EnumerableTest.exe
+E:\project\Web\shaoqi.test\EnumerableTest\bin\Debug\EnumerableTest.pdb
+E:\project\Web\shaoqi.test\EnumerableTest\obj\Debug\EnumerableTest.exe
+E:\project\Web\shaoqi.test\EnumerableTest\obj\Debug\EnumerableTest.pdb

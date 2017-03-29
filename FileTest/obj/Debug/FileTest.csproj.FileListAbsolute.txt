@@ -1,0 +1,6 @@
+E:\project\Web\shaoqi.test\FileTest\bin\Debug\FileTest.exe.config
+E:\project\Web\shaoqi.test\FileTest\bin\Debug\FileTest.exe
+E:\project\Web\shaoqi.test\FileTest\bin\Debug\FileTest.pdb
+E:\project\Web\shaoqi.test\FileTest\obj\Debug\FileTest.csprojResolveAssemblyReference.cache
+E:\project\Web\shaoqi.test\FileTest\obj\Debug\FileTest.exe
+E:\project\Web\shaoqi.test\FileTest\obj\Debug\FileTest.pdb

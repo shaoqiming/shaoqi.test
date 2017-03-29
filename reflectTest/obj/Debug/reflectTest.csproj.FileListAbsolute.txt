@@ -1,0 +1,5 @@
+E:\project\Web\shaoqi.test\reflectTest\bin\Debug\reflectTest.exe.config
+E:\project\Web\shaoqi.test\reflectTest\bin\Debug\reflectTest.exe
+E:\project\Web\shaoqi.test\reflectTest\bin\Debug\reflectTest.pdb
+E:\project\Web\shaoqi.test\reflectTest\obj\Debug\reflectTest.exe
+E:\project\Web\shaoqi.test\reflectTest\obj\Debug\reflectTest.pdb

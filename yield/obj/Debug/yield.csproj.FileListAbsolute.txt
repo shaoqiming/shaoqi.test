@@ -1,0 +1,6 @@
+E:\project\Web\shaoqi.test\yield\bin\Debug\yield.exe.config
+E:\project\Web\shaoqi.test\yield\bin\Debug\yield.exe
+E:\project\Web\shaoqi.test\yield\bin\Debug\yield.pdb
+E:\project\Web\shaoqi.test\yield\obj\Debug\yield.csprojResolveAssemblyReference.cache
+E:\project\Web\shaoqi.test\yield\obj\Debug\yield.exe
+E:\project\Web\shaoqi.test\yield\obj\Debug\yield.pdb

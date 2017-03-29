@@ -1,0 +1,5 @@
+E:\project\Web\shaoqi.test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+E:\project\Web\shaoqi.test\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+E:\project\Web\shaoqi.test\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+E:\project\Web\shaoqi.test\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+E:\project\Web\shaoqi.test\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

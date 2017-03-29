@@ -1,0 +1,6 @@
+E:\project\Web\shaoqi.test\IQueryAbleTest\bin\Debug\IQueryAbleTest.exe.config
+E:\project\Web\shaoqi.test\IQueryAbleTest\bin\Debug\IQueryAbleTest.exe
+E:\project\Web\shaoqi.test\IQueryAbleTest\bin\Debug\IQueryAbleTest.pdb
+E:\project\Web\shaoqi.test\IQueryAbleTest\obj\Debug\IQueryAbleTest.csprojResolveAssemblyReference.cache
+E:\project\Web\shaoqi.test\IQueryAbleTest\obj\Debug\IQueryAbleTest.exe
+E:\project\Web\shaoqi.test\IQueryAbleTest\obj\Debug\IQueryAbleTest.pdb

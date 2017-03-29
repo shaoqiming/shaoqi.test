@@ -1,0 +1,6 @@
+E:\project\Web\shaoqi.test\OverringTest\obj\Debug\OverringTest.csprojResolveAssemblyReference.cache
+E:\project\Web\shaoqi.test\OverringTest\bin\Debug\OverringTest.exe.config
+E:\project\Web\shaoqi.test\OverringTest\bin\Debug\OverringTest.exe
+E:\project\Web\shaoqi.test\OverringTest\bin\Debug\OverringTest.pdb
+E:\project\Web\shaoqi.test\OverringTest\obj\Debug\OverringTest.exe
+E:\project\Web\shaoqi.test\OverringTest\obj\Debug\OverringTest.pdb

@@ -1,0 +1,10 @@
+﻿{
+    "System": [ { "Name": "22" }, { "Name": "2222" } ],
+    "ThirdPatry": [ { "Name": "222" } ],
+    "Module": [
+        { "ModuleName": "Right", "DllList": [ { "Name": "RightCloud.BF.dll" }, { "Name": "22" } ] },
+        { "ModuleName": "SNS", "DllList": [ { "Name": "22" } ] }
+    ],
+    "Business": [ { "Name": "Ataw.Dev.Core" }, { "Name": "Ataw.Dev.Web2"} ]
+
+}
