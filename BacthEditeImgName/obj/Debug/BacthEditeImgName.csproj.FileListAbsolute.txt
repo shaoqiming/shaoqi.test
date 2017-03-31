@@ -1,0 +1,6 @@
+E:\project\Web\shaoqi.test\BacthEditeImgName\obj\Debug\BacthEditeImgName.csprojResolveAssemblyReference.cache
+E:\project\Web\shaoqi.test\BacthEditeImgName\bin\Debug\BacthEditeImgName.exe.config
+E:\project\Web\shaoqi.test\BacthEditeImgName\bin\Debug\BacthEditeImgName.exe
+E:\project\Web\shaoqi.test\BacthEditeImgName\bin\Debug\BacthEditeImgName.pdb
+E:\project\Web\shaoqi.test\BacthEditeImgName\obj\Debug\BacthEditeImgName.exe
+E:\project\Web\shaoqi.test\BacthEditeImgName\obj\Debug\BacthEditeImgName.pdb

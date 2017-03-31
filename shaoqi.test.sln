@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.40629.0
+# Visual Studio 15
+VisualStudioVersion = 15.0.26228.9
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shaoqi.test", "shaoqi.test\shaoqi.test.csproj", "{F8ABED69-61FB-4CB1-855B-72C908126481}"
 EndProject
@@ -40,6 +40,12 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IQueryAbleTest", "IQueryAbleTest\IQueryAbleTest.csproj", "{1D451B25-FC4B-483D-9730-1DE0CF2C3A3A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TypeTest", "TypeTest\TypeTest.csproj", "{14B1D4F7-9AF3-4F8B-93B5-B8C339DD151E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aop", "Aop\Aop.csproj", "{2E44B6F8-61A6-4A00-8EE2-DFA31291339B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAopES", "MyAopES\MyAopES.csproj", "{401251C1-0E76-4F04-B6AA-06723C34C093}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BacthEditeImgName", "BacthEditeImgName\BacthEditeImgName.csproj", "{C2C777C7-8826-445B-9B37-71DA9564C65F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -183,8 +189,35 @@ Global
 		{14B1D4F7-9AF3-4F8B-93B5-B8C339DD151E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{14B1D4F7-9AF3-4F8B-93B5-B8C339DD151E}.Release|Any CPU.Build.0 = Release|Any CPU
 		{14B1D4F7-9AF3-4F8B-93B5-B8C339DD151E}.Release|x86.ActiveCfg = Release|Any CPU
+		{2E44B6F8-61A6-4A00-8EE2-DFA31291339B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E44B6F8-61A6-4A00-8EE2-DFA31291339B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E44B6F8-61A6-4A00-8EE2-DFA31291339B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2E44B6F8-61A6-4A00-8EE2-DFA31291339B}.Debug|x86.Build.0 = Debug|Any CPU
+		{2E44B6F8-61A6-4A00-8EE2-DFA31291339B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E44B6F8-61A6-4A00-8EE2-DFA31291339B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E44B6F8-61A6-4A00-8EE2-DFA31291339B}.Release|x86.ActiveCfg = Release|Any CPU
+		{2E44B6F8-61A6-4A00-8EE2-DFA31291339B}.Release|x86.Build.0 = Release|Any CPU
+		{401251C1-0E76-4F04-B6AA-06723C34C093}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{401251C1-0E76-4F04-B6AA-06723C34C093}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{401251C1-0E76-4F04-B6AA-06723C34C093}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{401251C1-0E76-4F04-B6AA-06723C34C093}.Debug|x86.Build.0 = Debug|Any CPU
+		{401251C1-0E76-4F04-B6AA-06723C34C093}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{401251C1-0E76-4F04-B6AA-06723C34C093}.Release|Any CPU.Build.0 = Release|Any CPU
+		{401251C1-0E76-4F04-B6AA-06723C34C093}.Release|x86.ActiveCfg = Release|Any CPU
+		{401251C1-0E76-4F04-B6AA-06723C34C093}.Release|x86.Build.0 = Release|Any CPU
+		{C2C777C7-8826-445B-9B37-71DA9564C65F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2C777C7-8826-445B-9B37-71DA9564C65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2C777C7-8826-445B-9B37-71DA9564C65F}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{C2C777C7-8826-445B-9B37-71DA9564C65F}.Debug|x86.Build.0 = Debug|Any CPU
+		{C2C777C7-8826-445B-9B37-71DA9564C65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2C777C7-8826-445B-9B37-71DA9564C65F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2C777C7-8826-445B-9B37-71DA9564C65F}.Release|x86.ActiveCfg = Release|Any CPU
+		{C2C777C7-8826-445B-9B37-71DA9564C65F}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		EnterpriseLibraryConfigurationToolBinariesPathV6 = packages\EnterpriseLibrary.Common.6.0.1304.0\lib\NET45;packages\EnterpriseLibrary.PolicyInjection.6.0.1304.0\lib\NET45
 	EndGlobalSection
 EndGlobal
