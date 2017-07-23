@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.9
+VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shaoqi.test", "shaoqi.test\shaoqi.test.csproj", "{F8ABED69-61FB-4CB1-855B-72C908126481}"
 EndProject
@@ -46,6 +46,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyAopES", "MyAopES\MyAopES.csproj", "{401251C1-0E76-4F04-B6AA-06723C34C093}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BacthEditeImgName", "BacthEditeImgName\BacthEditeImgName.csproj", "{C2C777C7-8826-445B-9B37-71DA9564C65F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SingleEntryGateTest", "SingleEntryGateTest\SingleEntryGateTest.csproj", "{206CB6AF-1229-43BF-95F1-27FB03D1A40B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -213,6 +215,14 @@ Global
 		{C2C777C7-8826-445B-9B37-71DA9564C65F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{C2C777C7-8826-445B-9B37-71DA9564C65F}.Release|x86.ActiveCfg = Release|Any CPU
 		{C2C777C7-8826-445B-9B37-71DA9564C65F}.Release|x86.Build.0 = Release|Any CPU
+		{206CB6AF-1229-43BF-95F1-27FB03D1A40B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206CB6AF-1229-43BF-95F1-27FB03D1A40B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206CB6AF-1229-43BF-95F1-27FB03D1A40B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{206CB6AF-1229-43BF-95F1-27FB03D1A40B}.Debug|x86.Build.0 = Debug|Any CPU
+		{206CB6AF-1229-43BF-95F1-27FB03D1A40B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206CB6AF-1229-43BF-95F1-27FB03D1A40B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{206CB6AF-1229-43BF-95F1-27FB03D1A40B}.Release|x86.ActiveCfg = Release|Any CPU
+		{206CB6AF-1229-43BF-95F1-27FB03D1A40B}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

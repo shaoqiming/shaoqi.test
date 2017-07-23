@@ -1,0 +1,6 @@
+E:\MVCTest\SingleEntryGateTest\bin\Debug\SingleEntryGateTest.exe.config
+E:\MVCTest\SingleEntryGateTest\bin\Debug\SingleEntryGateTest.exe
+E:\MVCTest\SingleEntryGateTest\bin\Debug\SingleEntryGateTest.pdb
+E:\MVCTest\SingleEntryGateTest\obj\Debug\SingleEntryGateTest.csprojResolveAssemblyReference.cache
+E:\MVCTest\SingleEntryGateTest\obj\Debug\SingleEntryGateTest.exe
+E:\MVCTest\SingleEntryGateTest\obj\Debug\SingleEntryGateTest.pdb
